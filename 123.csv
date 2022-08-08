@@ -1,0 +1,6 @@
+Data Structures,Binary,12345,123456789,Hex
+1,Static,Size cannot change during runtime
+1,Dynamic,Size can change during runtime
+2,22,222
+1,Mutable,Data can change during runtime
+1,Immutable,Data cannot change during runtime
