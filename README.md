@@ -8,4 +8,4 @@ The following libraries were used:
 - hashlib
 - csv
 
-The word document in this repository describes the full design methodology, as well as the development progress and a description of which parts were not fully implemented and why.
+The pdf document in this repository describes the full design methodology, as well as the development progress and a description of which parts were not fully implemented and why.
